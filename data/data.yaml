@@ -1,0 +1,8 @@
+train: F:/machinelearning/project/datasets/ccpd/yolo2/train/images
+val: F:/machinelearning/project/datasets/ccpd/yolo2/val/images
+test: F:/machinelearning/project/datasets/ccpd/yolo2/test/images
+
+nc: 2
+names:
+  0: green
+  1: blue
